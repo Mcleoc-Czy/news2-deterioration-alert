@@ -75,8 +75,6 @@ NEWS2 共 7 个评分项：6 项生理指标 + 1 项是否吸氧。每项 0～3 
 
 ## 二、报警级别与临床响应
 
-对照 RCP 官网 NEWS2 Chart 4（Clinical response to NEWS trigger thresholds）：
-
 | 评分情况 | 报警级别 | 最低监测频率 | 临床响应 |
 | --- | --- | --- | --- |
 | 总分 0 | 无报警 | 每 12 小时 | 常规监测 |
